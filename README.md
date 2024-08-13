@@ -1,4 +1,4 @@
 # DevOps_Test
 Git Repo
 <br>
-Auth. Vishal Bhagwat
+Auth. Vishal Bhagwat (DevOps)
